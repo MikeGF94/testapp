@@ -10,6 +10,7 @@
    email = StringField('Email:', validators=[validators.optional(), validators.Length(min=0, max=50)])
    
    На:
+   
    from wtforms import Form
    from wtforms import (StringField)
    from wtforms.validators import InputRequired, Length
@@ -29,4 +30,5 @@
   
 3. docker-compose.yml находится в /
    Запуск:
-   docker-compose up -d
+   
+ docker-compose up -d
