@@ -1,2 +1,2 @@
 # testapp
-Тестовое задание для DevOps практикума в Simbirsoft
+Тестовое задание для DevOps практикума в SimbirSoft
