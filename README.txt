@@ -26,7 +26,7 @@
    
  cd Flaskex-docker
  docker build ./
- docker run -d -p 5000:5000 <id контейнера>
+ docker run -d -p 5000:5000 <image id>
   
 3. docker-compose.yml находится в /
    Запуск:
