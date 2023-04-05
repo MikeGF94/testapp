@@ -25,8 +25,8 @@
    Сборка и запуск контейнера:
    
  cd Flaskex-docker
- docker build ./
- docker run -d -p 5000:5000 <image id>
+ docker build ./ -t testapp
+ docker run -d -p 5000:5000 testapp:latest
   
 3. docker-compose.yml находится в /
    Запуск:
